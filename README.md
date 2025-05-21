@@ -12,45 +12,25 @@ I am currently focused on strengthening my skills in ethical hacking and pentest
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,postman" />
+    <img src="https://skillicons.dev/icons?i=bash,postman,arch,bsd,debian,kali,linux,mint,ubuntu,windows,aws,azure,gcp,heroku,netlify,vercel,cloudflare,supabase,openstack,c,cs,cpp,java,js,php,py,r,ts,mongodb,mysql" />
   </a>
+<p></p>  
 </div>
 <p></p>
-<p align="center"><strong>Sistemas Operativos</strong></p>
-
+<p></p>
+<p align="center"><strong>Statistics</strong></p>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bsd,debian,kali,linux,mint,ubuntu,windows" />
-  </a>
+ </a>
+</div>
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cyberdark-Security&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</a>
 </div>
 <p></p>
-<p align="center"><strong>Servicios en la Nube</strong></p>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,netlify,vercel,cloudflare,supabase,openstack" />
-  </a>
-
 <p></p>
-<p align="center"><strong>Lenguajes de Programación</strong></p>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,php,py,r,ts" />
-  </a>
-
 <p></p>
-<p align="center"><strong>Bases de Datos y Almacenamiento</strong></p>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite" />
-  </a>
-</div>
-
-</div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Cyberdark-Security)](https://git.io/streak-stats)
-
+<p></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberdark-Security)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Cyberdark-Security/Cyberdark-Security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 -->
