@@ -30,7 +30,9 @@ I am currently focused on strengthening my skills in ethical hacking and pentest
 <p></p>
 <p></p>
 <p></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberdark-Security)](https://github.com/anuraghazra/github-readme-stats)
+<p></p>
+<p></p>
+
 <!--
 **Cyberdark-Security/Cyberdark-Security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
