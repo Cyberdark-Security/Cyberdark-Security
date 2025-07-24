@@ -63,10 +63,12 @@ I am currently focused on strengthening my skills in ethical hacking and pentest
 <br clear="both">
 
 </div>
-<p></p>
-<p></p>
+
+###
+
 ## Estadisticas
 </div>
+
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cyberdark-Security&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </a>
