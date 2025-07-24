@@ -65,8 +65,6 @@ I am currently focused on strengthening my skills in ethical hacking and pentest
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="30" alt="pyhton logo" />
 <img width="12" />
 </div>
-###
-
 <br clear="both">
 
 
