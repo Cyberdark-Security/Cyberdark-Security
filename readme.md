@@ -62,12 +62,10 @@ I am currently focused on strengthening my skills in ethical hacking and pentest
 </div>
 <br clear="both">
 
-
-
 </div>
 <p></p>
 <p></p>
-<p align="center"><strong>Statistics</strong></p>
+## Estadisticas
 <div align="center">
  </a>
 </div>
