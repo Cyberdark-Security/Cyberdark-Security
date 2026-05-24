@@ -9,6 +9,11 @@
 
 ---
 
+### 🎯 Propósito del Repositorio
+Este repositorio sirve como mi **Perfil Profesional y Portafolio Digital** en GitHub. Aquí centralizo mi trayectoria técnica, las tecnologías que domino y mi progreso continuo en el ámbito de la ciberseguridad, permitiendo a reclutadores y colaboradores conocer mi enfoque tanto defensivo como ofensivo.
+
+---
+
 ### 👤 Sobre Mí
 
 Soy un profesional de **Ingeniería de Sistemas** con sólida experiencia en ciberseguridad y gestión de vulnerabilidades. Mi enfoque combina la defensa estratégica con la curiosidad ofensiva para proteger activos críticos.
@@ -93,4 +98,9 @@ Soy un profesional de **Ingeniería de Sistemas** con sólida experiencia en cib
 <p align="center">
   <i>"La seguridad no es un producto, es un proceso."</i> <br>
   <b>Cyberdark-Security 🛡️</b>
+</p>
+
+---
+<p align="center">
+  Hecho por Cyberdark by Whoami-labs.com
 </p>
