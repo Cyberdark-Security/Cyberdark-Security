@@ -1,72 +1,96 @@
-## Welcome to my server 💻
+# <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> ¡Hola! Soy Cyberdark-Security</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas;Especialista+en+Ciberseguridad;Ethical+Hacker+en+formación;Entusiasta+del+Blue+Team+%26+Red+Team" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cyberdark-Security&theme=dracula&no-frame=true&column=7" alt="github trophies" />
+</p>
 
-This is a little bit of what I am!:
+---
 
-💻 
-A systems engineering professional with solid experience in cybersecurity, vulnerability management with tools such as Qualys, system hardening based on CIS guidelines, and administration of solutions such as Netskope, Microsoft Intune, and firewalls (Fortinet, Palo Alto, CheckPoint), and IPS/IDS systems (Snort, Suricata), DDoS attack protection systems, sandboxes, and antispam. I also have experience managing Active Directory, security controls, authentication and authorization methods, and identity management tools in on-premises and cloud environments (Azure, AWS).
+### 👤 Sobre Mí
 
-I am currently focused on strengthening my skills in ethical hacking and pentesting, delving deeper into vulnerability exploitation techniques, privilege escalation, pivoting, and control bypass using tools such as Burp Suite, Metasploit, Nmap, Nessus, Nikto, and OWASP ZAP. I have basic scripting knowledge (Python, Bash, PowerShell) for test automation. I actively participate in CTFs and platforms such as HackTheBox, TryHackMe, and OffSec Proving Grounds to hone my penetration testing skills in web and mobile applications, APIs, AD, and cloud infrastructures. Familiar with ISO 27001, MITRE ATT&CK, and OWASP, I seek to contribute to projects that integrate offensive and defensive strategies to protect critical assets.
+Soy un profesional de **Ingeniería de Sistemas** con sólida experiencia en ciberseguridad y gestión de vulnerabilidades. Mi enfoque combina la defensa estratégica con la curiosidad ofensiva para proteger activos críticos.
 
-###
+*   🛡️ **Defensa:** Especialista en endurecimiento de sistemas (CIS hardening), gestión de vulnerabilidades (Qualys) y administración de soluciones de seguridad (Netskope, Microsoft Intune, Fortinet, Palo Alto).
+*   ⚔️ **Ofensiva:** Actualmente profundizando en hacking ético, pentesting, escalada de privilegios y explotación de vulnerabilidades en entornos Web, Mobile, API y Active Directory.
+*   📜 **Estándares:** Familiarizado con ISO 27001, MITRE ATT&CK y OWASP.
+*   🤖 **Automatización:** Conocimientos en Python, Bash y PowerShell para la automatización de pruebas de seguridad.
+
+---
+
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberdark-Security&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberdark-Security&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Cyberdark-Security&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdark-Security&layout=compact&theme=dracula&hide_border=false" alt="Lenguajes más usados" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdark-Security&theme=dracula" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-## My Technologies
+### 🛠️ Tecnologías y Herramientas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" height="30" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="30" alt="archlinux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" height="30" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="30" alt="debian logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="30" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="30" alt="kali logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" height="30" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" height="30" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30" alt="python logo" />
-</div>
-<br clear="both">
+#### **Lenguajes y Scripting**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-</div>
+#### **Ciberseguridad y Pentesting**
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-3E7EBB?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-###
+#### **Cloud y Infraestructura**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
+---
 
-<!--
-**Cyberdark-Security/Cyberdark-Security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### 🤝 Conéctate Conmigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-email@ejemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyberdark-Security&theme=dracula" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <i>"La seguridad no es un producto, es un proceso."</i> <br>
+  <b>Cyberdark-Security 🛡️</b>
+</p>
