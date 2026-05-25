@@ -28,6 +28,12 @@ Soy un profesional de **Ingeniería de Sistemas** con sólida experiencia en cib
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberdark-Security&theme=dracula" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
   <table border="0">
     <tr>
       <td>
@@ -38,8 +44,11 @@ Soy un profesional de **Ingeniería de Sistemas** con sólida experiencia en cib
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdark-Security&theme=dracula" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cyberdark-Security&theme=dracula" alt="Stats Card" />
       </td>
     </tr>
   </table>
@@ -49,49 +58,36 @@ Soy un profesional de **Ingeniería de Sistemas** con sólida experiencia en cib
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### **Lenguajes y Scripting**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,cs,js,kali,docker,linux,aws,azure,kubernetes" />
+</div>
 
-#### **Ciberseguridad y Pentesting**
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<br />
+
+<div align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-3E7EBB?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-#### **Cloud y Infraestructura**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+</div>
 
 ---
 
 ### 🤝 Conéctate Conmigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/maocamacho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.whoami-labs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cyberdark-Security&theme=dracula&utcOffset=-5" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyberdark-Security&theme=dracula" alt="Profile Summary" />
 </p>
 
