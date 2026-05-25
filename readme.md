@@ -28,37 +28,6 @@ Experto en identificar vectores de ataque en entornos corporativos, utilizando f
 
 ---
 
-### 🏆 Certificaciones y Acreditaciones
-
-**🔥 Seguridad Ofensiva & AppSec:**
-- `eJPT` Junior Penetration Tester
-- `CAP` Certified AppSec Practitioner (The SecOps Group)
-- `COSJ` Certified Offensive Security Junior
-- `CPPJ` Certificado Profesional De Pentesting Para Juniors
-- `EHCA` Ethical Hacking Certified Associate (CertJoin)
-- `CCE` Cybersecurity Certified Expert (CertJoin)
-
-**☁️ Cloud Security & Foundations:**
-- `ICCA` Certified Cloud Associate (INE)
-- `AZ-900 / SC-900 / MS-900` (Microsoft)
-- `OCI` Certified Foundations Associate (Oracle)
-- `GitHub` Foundations
-
-**🛡️ Ciberseguridad Defensiva & Análisis:**
-- `CCST` Cisco Certified Support Technician Cybersecurity
-- `IBM` Cybersecurity Analyst Professional Certificate
-- `Google` Cybersecurity Professional Certificate
-- `ISC²` Certified in Cybersecurity (CC)
-- `FCA` FortiGate 7.4 Operator & Associate (Fortinet)
-- `Qualys` VMDR (Vulnerability Management Detection and Response) & EDR
-
-**⚖️ Gobernanza, Auditoría y Educación:**
-- `LCSPC` Lead Cybersecurity Professional Certificate
-- `ISO 27001` Foundation (CertiProf)
-- `MCE` Microsoft Certified Educator
-
----
-
 ### 💻 Arsenal Tecnológico
 
 <div align="center">
@@ -91,6 +60,37 @@ Experto en identificar vectores de ataque en entornos corporativos, utilizando f
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdark-Security&theme=tokyonight&hide_border=true&layout=compact" alt="Lenguajes más usados" />
 </div>
+
+---
+
+### 🏆 Certificaciones y Acreditaciones
+
+**🔥 Seguridad Ofensiva & AppSec:**
+- `eJPT` Junior Penetration Tester
+- `CAP` Certified AppSec Practitioner (The SecOps Group)
+- `COSJ` Certified Offensive Security Junior
+- `CPPJ` Certificado Profesional De Pentesting Para Juniors
+- `EHCA` Ethical Hacking Certified Associate (CertJoin)
+- `CCE` Cybersecurity Certified Expert (CertJoin)
+
+**☁️ Cloud Security & Foundations:**
+- `ICCA` Certified Cloud Associate (INE)
+- `AZ-900 / SC-900 / MS-900` (Microsoft)
+- `OCI` Certified Foundations Associate (Oracle)
+- `GitHub` Foundations
+
+**🛡️ Ciberseguridad Defensiva & Análisis:**
+- `CCST` Cisco Certified Support Technician Cybersecurity
+- `IBM` Cybersecurity Analyst Professional Certificate
+- `Google` Cybersecurity Professional Certificate
+- `ISC²` Certified in Cybersecurity (CC)
+- `FCA` FortiGate 7.4 Operator & Associate (Fortinet)
+- `Qualys` VMDR (Vulnerability Management Detection and Response) & EDR
+
+**⚖️ Gobernanza, Auditoría y Educación:**
+- `LCSPC` Lead Cybersecurity Professional Certificate
+- `ISO 27001` Foundation (CertiProf)
+- `MCE` Microsoft Certified Educator
 
 ---
 
