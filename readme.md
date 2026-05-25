@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas;Especialista+en+Ciberseguridad;Ethical+Hacker+en+formación;Entusiasta+del+Blue+%26+Red+Team" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Founder+Whoami+Labs;Especialista+en+Ciberseguridad;Pentesting+%26+Vulnerability+Management;Automatización+de+Seguridad+con+IA;Integración+de+Workflows+(Make/n8n);Auditor+ISO+27001" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,14 +22,40 @@
 
 ### 🥷 ¿Quién soy? (whoami)
 
-Soy un **Ingeniero de Sistemas** especializado en la intersección de la infraestructura crítica y la ciberseguridad avanzada. Mi filosofía técnica se basa en que para defender un sistema eficazmente, debes saber cómo destruirlo.
+Ingeniero de Sistemas y Especialista en Ciberseguridad con enfoque en Seguridad Ofensiva (Red Team). Experiencia sólida transicionando desde operaciones defensivas (SOC/Blue Team) hacia la evaluación técnica de vulnerabilidades y pruebas de penetración. 
 
-> *"La seguridad no es un producto, es un proceso."*
+Experto en identificar vectores de ataque en entornos corporativos, utilizando frameworks como **MITRE ATT&CK** y **OWASP Top 10**. Competente en el uso de herramientas de explotación (*Metasploit, Burp Suite*) y automatización con *Python/Bash*. Orientado a resultados bajo metodologías ágiles y mejora continua de la postura de seguridad.
 
-- 🛡️ **Blue Team (Defensa):** Especialista en endurecimiento de sistemas (CIS hardening), gestión de vulnerabilidades (Qualys), e implementación de seguridad perimetral y endpoint (Netskope, Microsoft Intune, Fortinet, Palo Alto).
-- ⚔️ **Red Team (Ofensiva):** Pentesting activo, escalada de privilegios y explotación de entornos Web, Mobile, API y Active Directory.
-- ⚙️ **Automatización:** Desarrollo de scripts tácticos en `Python`, `Bash` y `PowerShell` para DevSecOps.
-- 📜 **Estándares:** Alineación estricta con marcos globales (ISO 27001, MITRE ATT&CK, OWASP).
+---
+
+### 🏆 Certificaciones y Acreditaciones
+
+**🔥 Seguridad Ofensiva & AppSec:**
+- `eJPT` Junior Penetration Tester
+- `CAP` Certified AppSec Practitioner (The SecOps Group)
+- `COSJ` Certified Offensive Security Junior
+- `CPPJ` Certificado Profesional De Pentesting Para Juniors
+- `EHCA` Ethical Hacking Certified Associate (CertJoin)
+- `CCE` Cybersecurity Certified Expert (CertJoin)
+
+**☁️ Cloud Security & Foundations:**
+- `ICCA` Certified Cloud Associate (INE)
+- `AZ-900 / SC-900 / MS-900` (Microsoft)
+- `OCI` Certified Foundations Associate (Oracle)
+- `GitHub` Foundations
+
+**🛡️ Ciberseguridad Defensiva & Análisis:**
+- `CCST` Cisco Certified Support Technician Cybersecurity
+- `IBM` Cybersecurity Analyst Professional Certificate
+- `Google` Cybersecurity Professional Certificate
+- `ISC²` Certified in Cybersecurity (CC)
+- `FCA` FortiGate 7.4 Operator & Associate (Fortinet)
+- `Qualys` VMDR (Vulnerability Management Detection and Response) & EDR
+
+**⚖️ Gobernanza, Auditoría y Educación:**
+- `LCSPC` Lead Cybersecurity Professional Certificate
+- `ISO 27001` Foundation (CertiProf)
+- `MCE` Microsoft Certified Educator
 
 ---
 
@@ -56,24 +82,14 @@ Soy un **Ingeniero de Sistemas** especializado en la intersección de la infraes
 ### 📡 Telemetría de GitHub
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Cyberdark-Security&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdark-Security&theme=tokyonight&hide_border=true&layout=compact" alt="Lenguajes más usados" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdark-Security&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
+  <!-- Activity Graph at the top -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberdark-Security&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27" width="100%" alt="Activity Graph" />
+  <br><br>
+  <!-- Stats side by side using simple img tags to avoid white table backgrounds -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberdark-Security&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdark-Security&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdark-Security&theme=tokyonight&hide_border=true&layout=compact" alt="Lenguajes más usados" />
 </div>
 
 ---
