@@ -54,13 +54,7 @@ Experto en identificar vectores de ataque en entornos corporativos, utilizando f
   <!-- Activity Graph at the top -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberdark-Security&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27" width="100%" alt="Activity Graph" />
   <br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberdark-Security&theme=tokyonight&hide_border=true&include_all_commits=true" height="195" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdark-Security&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdark-Security&theme=tokyonight&hide_border=true&layout=compact" height="195" alt="Lenguajes más usados" />
-</p>
+
 </div>
 
 ---
