@@ -1,25 +1,23 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Cyberdark-Security&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Cyberdark-Security header" />
-</div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28px" alt="wave">
-  Operaciones Ofensivas &amp; Defensa Estratégica
-</h2>
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28px" alt="wave">
+    Operaciones Ofensivas &amp; Defensa Estratégica
+  </h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Founder+Whoami+Labs;Especialista+en+Ciberseguridad;Pentesting+%26+Vulnerability+Management;Automatizacion+de+Seguridad+con+IA;Integracion+de+Workflows+(Make/n8n);Auditor+ISO+27001" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Founder+Whoami+Labs;Especialista+en+Ciberseguridad;Pentesting+%26+Vulnerability+Management;Automatizacion+de+Seguridad+con+IA;Integracion+de+Workflows+(Make/n8n);Auditor+ISO+27001" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://github-profile-trophy-gamma.vercel.app/?username=Cyberdark-Security&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
+  <br><br>
 
-<p align="center">
+  <img src="https://github-profile-trophy-gamma.vercel.app/?username=Cyberdark-Security&theme=dracula&no-frame=true&column=6&row=1&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+  <br><br>
+
   <a href="https://github.com/Cyberdark-Security"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/maocamacho/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.whoami-labs.com"><img src="https://img.shields.io/badge/Whoami_Labs-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=00B4D8" alt="Website"></a>
-</p>
+</div>
 
 ---
 
