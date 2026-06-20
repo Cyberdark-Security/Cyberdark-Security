@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00B4D8,100:7B2CBF&height=220&section=header&text=CYBERDARK-SECURITY&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff&stroke=ffffff" alt="Cyberdark-Security header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00B4D8,100:7B2CBF&height=220&section=header&text=Cyberdark&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&stroke=ffffff" alt="Cyberdark-Security header" />
 </div>
 
 <h2 align="center">
@@ -8,11 +8,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Founder+Whoami+Labs;Especialista+en+Ciberseguridad;Pentesting+%26+Vulnerability+Management;Automatización+de+Seguridad+con+IA;Integración+de+Workflows+(Make/n8n);Auditor+ISO+27001" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Founder+Whoami+Labs;Especialista+en+Ciberseguridad;Pentesting+%26+Vulnerability+Management;Automatizacion+de+Seguridad+con+IA;Integracion+de+Workflows+(Make/n8n);Auditor+ISO+27001" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cyberdark-Security&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-gamma.vercel.app/?username=Cyberdark-Security&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
