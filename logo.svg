@@ -1,0 +1,139 @@
+<svg width="100%" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Cyberdark-Security Brand</title>
+  <desc>Premium brand identity for Cyberdark-Security: shield and sword logo, professional wordmark, and system applications</desc>
+
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0084B4;stop-opacity:1" />
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#FF2E63" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="#0a0e27"/>
+
+  <!-- Grid accent lines (subtle) -->
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#1a2540" stroke-width="1"/>
+  <line x1="0" y1="400" x2="1200" y2="400" stroke="#1a2540" stroke-width="1"/>
+
+  <!-- SECTION 1: LOGO & WORDMARK (x: 0-380) -->
+  <g>
+    <!-- Shield outline -->
+    <path d="M120 80 L180 80 L180 160 Q180 210 150 240 Q120 210 120 160 Z" fill="none" stroke="#00D4FF" stroke-width="2.5" stroke-linejoin="round"/>
+
+    <!-- Sword/Lance through shield (red accent) -->
+    <line x1="150" y1="50" x2="150" y2="250" stroke="#FF2E63" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Sword point -->
+    <polygon points="150,50 145,65 155,65" fill="#FF2E63"/>
+
+    <!-- Inner shield detail (negative space) -->
+    <circle cx="150" cy="140" r="18" fill="none" stroke="#00D4FF" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- Wordmark: CYBERDARK -->
+    <text x="250" y="130" font-family="Courier, monospace" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="2">
+      CYBERDARK
+    </text>
+
+    <!-- Wordmark: SECURITY -->
+    <text x="250" y="180" font-family="Courier, monospace" font-size="32" font-weight="400" fill="#00D4FF" letter-spacing="3">
+      SECURITY
+    </text>
+
+    <!-- Red accent line -->
+    <line x1="250" y1="200" x2="550" y2="200" stroke="#FF2E63" stroke-width="2"/>
+  </g>
+
+  <!-- SECTION 2: BROWSER MOCKUP (x: 600-950) -->
+  <g>
+    <!-- Browser chrome -->
+    <rect x="600" y="50" width="340" height="180" rx="8" fill="#1a2540" stroke="#00D4FF" stroke-width="1.5"/>
+
+    <!-- URL bar background -->
+    <rect x="608" y="58" width="324" height="28" rx="4" fill="#0f1425" stroke="#2a3f5f" stroke-width="0.5"/>
+
+    <!-- URL text -->
+    <text x="616" y="77" font-family="monospace" font-size="11" fill="#00D4FF">
+      https://whoami-labs.com
+    </text>
+
+    <!-- Content area -->
+    <rect x="608" y="92" width="324" height="128" fill="#0a0e27"/>
+
+    <!-- Dashboard elements -->
+    <rect x="616" y="100" width="80" height="40" rx="4" fill="#FF2E63" opacity="0.15" stroke="#FF2E63" stroke-width="0.5"/>
+    <text x="625" y="128" font-family="monospace" font-size="10" fill="#FF2E63">Threats</text>
+
+    <rect x="708" y="100" width="80" height="40" rx="4" fill="#00D4FF" opacity="0.15" stroke="#00D4FF" stroke-width="0.5"/>
+    <text x="720" y="128" font-family="monospace" font-size="10" fill="#00D4FF">Protected</text>
+
+    <rect x="800" y="100" width="80" height="40" rx="4" fill="#7FFF00" opacity="0.15" stroke="#7FFF00" stroke-width="0.5"/>
+    <text x="815" y="128" font-family="monospace" font-size="10" fill="#7FFF00">Secure</text>
+
+    <!-- Status bars -->
+    <line x1="616" y1="155" x2="920" y2="155" stroke="#2a3f5f" stroke-width="4" stroke-linecap="round"/>
+    <line x1="616" y1="155" x2="850" y2="155" stroke="#00D4FF" stroke-width="4" stroke-linecap="round"/>
+
+    <text x="616" y="175" font-family="monospace" font-size="9" fill="#7FFF00">✓ Security posture optimal</text>
+  </g>
+
+  <!-- SECTION 3: TERMINAL MOCKUP (x: 600-950, y: 250-350) -->
+  <g>
+    <!-- Terminal window -->
+    <rect x="600" y="250" width="340" height="120" rx="6" fill="#0f1425" stroke="#2a3f5f" stroke-width="1"/>
+
+    <!-- Terminal header -->
+    <rect x="600" y="250" width="340" height="24" rx="6" fill="#1a2540" stroke="#2a3f5f" stroke-width="1"/>
+    <text x="612" y="266" font-family="monospace" font-size="10" fill="#7FFF00">security_audit.sh</text>
+
+    <!-- Terminal content -->
+    <text x="612" y="290" font-family="monospace" font-size="9" fill="#00D4FF">$ ./pentest --target internal</text>
+    <text x="612" y="305" font-family="monospace" font-size="9" fill="#FFFFFF">[*] Starting reconnaissance...</text>
+    <text x="612" y="320" font-family="monospace" font-size="9" fill="#FF2E63">[!] 3 critical findings</text>
+    <text x="612" y="335" font-family="monospace" font-size="9" fill="#7FFF00">[✓] Mitigation plan ready</text>
+    <text x="612" y="350" font-family="monospace" font-size="9" fill="#00D4FF">$_</text>
+  </g>
+
+  <!-- SECTION 4: COLOR PALETTE (x: 1000-1170) -->
+  <g>
+    <text x="1000" y="70" font-family="sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">
+      PALETTE
+    </text>
+
+    <!-- Cyan -->
+    <circle cx="1020" cy="110" r="16" fill="#00D4FF" stroke="#00D4FF" stroke-width="1"/>
+    <text x="1050" y="115" font-family="monospace" font-size="10" fill="#FFFFFF">#00D4FF</text>
+
+    <!-- Red -->
+    <circle cx="1020" cy="150" r="16" fill="#FF2E63" stroke="#FF2E63" stroke-width="1"/>
+    <text x="1050" y="155" font-family="monospace" font-size="10" fill="#FFFFFF">#FF2E63</text>
+
+    <!-- Lime -->
+    <circle cx="1020" cy="190" r="16" fill="#7FFF00" stroke="#7FFF00" stroke-width="1"/>
+    <text x="1050" y="195" font-family="monospace" font-size="10" fill="#FFFFFF">#7FFF00</text>
+
+    <!-- Dark base -->
+    <circle cx="1020" cy="230" r="16" fill="#0a0e27" stroke="#2a3f5f" stroke-width="1"/>
+    <text x="1050" y="235" font-family="monospace" font-size="10" fill="#FFFFFF">#0a0e27</text>
+
+    <!-- Tagline -->
+    <text x="1000" y="300" font-family="sans-serif" font-size="13" font-weight="500" fill="#00D4FF">
+      Red Team • Blue Team
+    </text>
+    <text x="1000" y="320" font-family="sans-serif" font-size="13" font-weight="500" fill="#FFFFFF">
+      Professional Security
+    </text>
+  </g>
+
+  <!-- Accent borders -->
+  <line x1="585" y1="40" x2="585" y2="370" stroke="#FF2E63" stroke-width="1.5" opacity="0.3"/>
+  <line x1="980" y1="40" x2="980" y2="370" stroke="#00D4FF" stroke-width="1.5" opacity="0.3"/>
+
+  <!-- Footer detail -->
+  <text x="50" y="390" font-family="monospace" font-size="9" fill="#7FFF00">
+    © 2026 CYBERDARK-SECURITY • whoami-labs.com
+  </text>
+</svg>

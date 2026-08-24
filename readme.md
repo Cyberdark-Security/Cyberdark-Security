@@ -1,4 +1,4 @@
-# 🥷 CYBERDARK-SECURITY
+![Cyberdark-Security Brand](./logo.svg)
 
 > **Red Team • Blue Team • Automation**
 >
