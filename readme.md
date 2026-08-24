@@ -1,140 +1,72 @@
-```
-████████████████████████████████████████████████████████████████████████████
-█                                                                          █
-█   ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗  █████╗ ██╗   ██╗   █
-█  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██║   ██║   █
-█  ██║      ╚████╔╝ ██████╔╝█████╗  ██║  ██║██║  ██║███████║██║   ██║   █
-█  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██║  ██║██║  ██║██╔══██║██║   ██║   █
-█  ╚██████╗   ██║   ██████╔╝███████╗██████╔╝██████╔╝██║  ██║███████╗██║   █
-█   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝   █
-█                                                                          █
-█                    RED TEAM • BLUE TEAM • AUTOMATION                    █
-█                  🛡️ PENETRATION TESTER | SECURITY ARCHITECT 🥷          █
-█                                                                          █
-████████████████████████████████████████████████████████████████████████████
-```
+# 🥷 CYBERDARK-SECURITY
+
+> **Red Team • Blue Team • Automation**
+>
+> Especialista en Ciberseguridad Ofensiva & Defensiva
 
 ---
 
-<div align="center">
+## 👤 About Me
 
-### **Especialista en Ciberseguridad Ofensiva & Defensiva**
+**Ingeniero de Sistemas** especializado en seguridad ofensiva y defensiva con experiencia probada en:
 
-*"La seguridad no es un producto, es un proceso."*
-
-**Founder @ Whoami-Labs.com | Ingeniero de Sistemas**
-
-</div>
-
----
-
-## 👤 ¿Quién Soy?
-
-Especialista en **seguridad ofensiva y defensiva** con experiencia probada en:
-
-```
-⚔️  RED TEAM        │  🛡️  BLUE TEAM       │  ⚙️  AUTOMATION
-────────────────────┼────────────────────┼────────────────────
-Pentesting Activo   │ Endurecimiento     │ DevSecOps
-Escalada Privilegios│ Gestión Vulns      │ Integración IA
-Explotación Web/App │ Análisis Forense   │ CI/CD Security
-Active Directory    │ Arquitectura Defensa│ Container Security
-Social Engineering  │ Compliance (ISO)   │ IaC Security
-```
+- **⚔️ Red Team:** Pentesting activo, escalada de privilegios, explotación (Web/Mobile/API/AD)
+- **🛡️ Blue Team:** Endurecimiento, gestión de vulnerabilidades, análisis forense, compliance
+- **⚙️ Automation:** DevSecOps, CI/CD security, scripting en Python/Bash/PowerShell
+- **📋 Governance:** ISO 27001, MITRE ATT&CK, OWASP Top 10, NIST Framework
 
 ---
 
-## 🏆 CREDENCIALES VERIFICADAS
+## 🏆 Certified
 
-### 🔴 OFENSIVA & PENTESTING
-```
-✓ eJPT              ✓ COSJ              ✓ CPPJ
-✓ CAP               ✓ EHCA              ✓ CCE
-```
+**Offensive Security:** eJPT • CAP • COSJ • CPPJ • EHCA • CCE
 
-### 🔵 DEFENSIVA & ANÁLISIS  
-```
-✓ CCST (Cisco)      ✓ IBM Cybersecurity     ✓ Google Security
-✓ ISC² CC           ✓ FortiGate FCA         ✓ Qualys VMDR/EDR
-```
+**Defensive & Analysis:** CCST • IBM Cybersecurity • Google Security • ISC² CC • FortiGate FCA • Qualys VMDR/EDR
 
-### ☁️ CLOUD & FOUNDATIONS
-```
-✓ ICCA (INE)        ✓ AZ-900                ✓ OCI Foundations
-✓ SC-900            ✓ MS-900                ✓ GitHub Foundations
-```
+**Cloud:** ICCA • AZ-900 • SC-900 • MS-900 • OCI Foundations • GitHub Foundations
 
-### 📋 GOBERNANZA & LIDERAZGO
-```
-✓ LCSPC             ✓ ISO 27001             ✓ MCE (Microsoft)
-```
+**Leadership:** LCSPC • ISO 27001 • MCE
 
 ---
 
-## 🛠️ ARSENAL TÉCNICO
+## 🛠️ Technical Skills
 
-### 💻 LENGUAJES & SCRIPTING
-```
-Python  •  Bash  •  PowerShell  •  Go  •  TypeScript  •  JavaScript  •  C#  •  C++
-```
+**Languages:** Python • Bash • PowerShell • Go • TypeScript • JavaScript • C# • C++
 
-### 🖥️ INFRAESTRUCTURA & CLOUD
-```
-Linux  •  Windows  •  macOS  •  Docker  •  Kubernetes  •  AWS  •  Azure  •  GCP
-```
+**Infrastructure:** Linux • Windows • macOS • Docker • Kubernetes • AWS • Azure • GCP
 
-### 🎯 HERRAMIENTAS OFENSIVAS
-```
-Kali Linux  •  Burp Suite Pro  •  Metasploit  •  Nmap  •  Wireshark
-SQLmap  •  Hashcat  •  John  •  Hydra  •  Aircrack-ng  •  BeEF
-```
+**Offensive Tools:** Kali Linux • Burp Suite • Metasploit • Nmap • Wireshark • SQLmap • Hashcat • BeEF
 
-### 🛡️ HERRAMIENTAS DEFENSIVAS
-```
-Fortinet FortiGate  •  Palo Alto Networks  •  Netskope  •  Intune
-Qualys  •  Nessus  •  Splunk  •  ELK Stack  •  Zeek  •  Snort
-```
+**Defensive Tools:** Fortinet • Palo Alto • Netskope • Intune • Qualys • Nessus • Splunk • ELK • Zeek
 
-### 🔍 FRAMEWORKS & ESTÁNDARES
-```
-MITRE ATT&CK  •  OWASP Top 10  •  NIST Framework  •  CIS Benchmarks
-CVSS  •  SANS Top 25  •  Nuclei  •  Shodan  •  Censys  •  YARA
-```
+**Frameworks:** MITRE ATT&CK • OWASP • NIST • CIS Benchmarks • Nuclei • Shodan • Censys
 
 ---
 
-## 🎯 EXPERTISE CORE
+## 🎯 Core Expertise
 
-| **Área** | **Capacidad** |
-|:---|:---|
-| **Web Pentesting** | OWASP Top 10 • SQLi • XSS • CSRF • Bypass Auth • API Hacking |
-| **Active Directory** | Kerberoasting • Golden Ticket • Pass-the-Hash • Lateral Movement |
-| **Mobile Security** | iOS/Android Reversing • API Testing • Data Storage Audits |
-| **Cloud Security** | IAM Misconfiguration • S3 Exposure • Secrets Management |
-| **Endurecimiento** | CIS Benchmarks • Compliance Automation • Configuration Audit |
-| **Threat Intel** | Vulnerability Management • EDR Analysis • Threat Hunting • MITRE Mapping |
+| Pentesting Web | Active Directory | Mobile Security | Cloud Security |
+|:---|:---|:---|:---|
+| OWASP Top 10 | Kerberoasting | iOS/Android | IAM Hardening |
+| SQLi/XSS/CSRF | Golden Ticket | API Testing | S3 Exposure |
+| Bypass Auth | Lateral Movement | Reversing | Secrets Mgmt |
+| API Hacking | Pass-the-Hash | Data Audits | Compliance |
 
----
-
-## 🔗 CONECTA CONMIGO
-
-<div align="center">
-
-| 🌐 **WEBSITE** | 💼 **LINKEDIN** | 🐙 **GITHUB** |
-|:---:|:---:|:---:|
-| [whoami-labs.com](https://www.whoami-labs.com) | [/in/maocamacho](https://www.linkedin.com/in/maocamacho/) | [@Cyberdark-Security](https://github.com/Cyberdark-Security) |
-
-</div>
+| System Hardening | Threat Intelligence | Incident Response | Compliance |
+|:---|:---|:---|:---|
+| CIS Benchmarks | SIEM Configuration | Log Analysis | ISO 27001 |
+| Configuration Audit | EDR Analysis | Threat Hunting | SOC2 |
+| Vulnerability Mgmt | MITRE Mapping | Forensics | GDPR/HIPAA |
+| Access Control | Threat Modeling | Timeline Creation | Policy Design |
 
 ---
 
-<div align="center">
+## 🔗 Connect
 
-```
-████████████████████████████████████████████████████████████████
-█  Built with Security-First Mentality • Always Learning         █
-█  Powered by Whoami-Labs • Tested in Real Environments         █
-████████████████████████████████████████████████████████████████
-```
+- **Website:** [whoami-labs.com](https://www.whoami-labs.com)
+- **LinkedIn:** [/in/maocamacho](https://www.linkedin.com/in/maocamacho/)
+- **GitHub:** [@Cyberdark-Security](https://github.com/Cyberdark-Security)
 
-</div>
+---
+
+*Built with security-first mentality • Always testing • Always learning*
