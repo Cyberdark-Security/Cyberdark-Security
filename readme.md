@@ -60,11 +60,11 @@ Linux • Windows • macOS • Docker • Kubernetes • AWS • Azure • GCP
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyberdark-Security&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyberdark-Security&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/Cyberdark-Security)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdark-Security&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdark-Security&layout=compact&theme=radical&hide_border=true)](https://github.com/Cyberdark-Security)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Cyberdark-Security&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cyberdark-Security&theme=radical)](https://github.com/Cyberdark-Security)
 
 ---
 
@@ -88,13 +88,9 @@ Linux • Windows • macOS • Docker • Kubernetes • AWS • Azure • GCP
 | 🌐 **Web** | [whoami-labs.com](https://www.whoami-labs.com) |
 | 💼 **LinkedIn** | [/in/maocamacho](https://www.linkedin.com/in/maocamacho/) |
 | 🐙 **GitHub** | [Cyberdark-Security](https://github.com/Cyberdark-Security) |
-| 📧 **Email** | maocamacho2020@gmail.com |
 
 ---
 
-## 🛡️ Seguridad
-
-Si encuentras una vulnerabilidad, por favor reportala responsablemente. Ver [SECURITY.md](SECURITY.md)
 
 ---
 
