@@ -7,7 +7,7 @@
 
 <!-- DYNAMIC TYPING HEADLINE -->
 <a href="https://github.com/Cyberdark-Security">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=⚔️+Red+Team+Operator+%26+Offensive+Security+Architect;🛡️+Blue+Team+%26+Threat+Hunting+Specialist;☁️+Multi-Cloud+Security+%26+DevSecOps+Engineer;🚀+Founder+%26+Lead+Architect+%40+Whoami-Labs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Red+Team+Operator+%26+Offensive+Security+Architect;Blue+Team+%26+Threat+Hunting+Specialist;Multi-Cloud+Security+%26+DevSecOps+Engineer;Founder+%26+Lead+Architect+%40+Whoami-Labs" alt="Cyberdark Specialization" />
 </a>
 
 <p align="center">
@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/maocamacho/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Cyberdark-Security"><img src="https://img.shields.io/badge/GitHub-Cyberdark--Security-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:contact@whoami-labs.com"><img src="https://img.shields.io/badge/Contact-Encrypted_Channel-FF0055?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Cyberdark-Security&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -68,7 +69,7 @@ identity:
   <img src="https://img.shields.io/badge/Microsoft-MS--900_Microsoft_365-00A4EF?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Foundations_Certified-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISO%2F举-ISO_27001_Auditor%20%7C%20LCSPC-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO-ISO_27001_Auditor%20%7C%20LCSPC-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" />
 </p>
 
 </div>
@@ -141,12 +142,12 @@ identity:
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberdark-Security&show_icons=true&theme=radical&hide_border=false&title_color=00F0FF&icon_color=FF0055&text_color=E0E6ED&bg_color=0D1117" width="48%" alt="Cyberdark GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdark-Security&layout=compact&theme=radical&hide_border=false&title_color=00F0FF&text_color=E0E6ED&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cyberdark-Security&show_icons=true&theme=radical&hide_border=false&title_color=00F0FF&icon_color=FF0055&text_color=E0E6ED&bg_color=0D1117" width="48%" alt="Cyberdark GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cyberdark-Security&layout=compact&theme=radical&hide_border=false&title_color=00F0FF&text_color=E0E6ED&bg_color=0D1117" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdark-Security&theme=radical&hide_border=false&background=0D1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Cyberdark-Security&theme=radical&hide_border=false&background=0D1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF" width="97%" alt="GitHub Streak" />
 </p>
 
 </div>
