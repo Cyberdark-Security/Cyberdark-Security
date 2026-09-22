@@ -137,23 +137,6 @@ identity:
 
 ---
 
-## 📊 Live Telemetry & GitHub Analytics
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cyberdark-Security&show_icons=true&theme=radical&hide_border=false&title_color=00F0FF&icon_color=FF0055&text_color=E0E6ED&bg_color=0D1117" width="48%" alt="Cyberdark GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cyberdark-Security&layout=compact&theme=radical&hide_border=false&title_color=00F0FF&text_color=E0E6ED&bg_color=0D1117" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Cyberdark-Security&theme=radical&hide_border=false&background=0D1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF" width="97%" alt="GitHub Streak" />
-</p>
-
-</div>
-
----
-
 ## 📬 Encrypted Comms & Social Uplinks
 
 <div align="center">
